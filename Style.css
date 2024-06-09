@@ -7,6 +7,14 @@ body {
 body h2 a { font-size: smaller;
     font-style: italic;
 
+article {
+    text-align: left
+}
 
+#image1 { size-adjust: 75;
+}
+
+{
+font-family: 'Times New Roman', Times, serif;
 
 }
