@@ -3,3 +3,10 @@ body {
     background-color: antiquewhite;
     text-align: center;
 }
+
+body h2 a { font-size: smaller;
+    font-style: italic;
+
+
+
+}
